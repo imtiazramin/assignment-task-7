@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "title": "Vintage Leica M3 Camera",
+    "description": "Hand-crafted premium leather wallet with classic stitching.",
+    "currentBidPrice": 1200,
+    "timeLeft": "2h 15m",
+    "bidsCount": 14,
+    "image": "https://img.icons8.com/?size=100&id=86721&format=png&color=000000"
+  },
+  {
+    "id": 2,
+    "title": "1965 Gibson SG Standard Electric Guitar",
+    "description": "Noise-cancelling over-ear headphones with 20h battery life.",
+    "currentBidPrice": 3500,
+    "timeLeft": "5h 48m",
+    "bidsCount": 22,
+    "image": "https://img.icons8.com/?size=100&id=86721&format=png&color=000000"
+  },
+  {
+    "id": 3,
+    "title": "Original Apple Macintosh 128K (1984)",
+    "description": "Tracks heart rate, sleep, steps, GPS and syncs with mobile.",
+    "currentBidPrice": 5200,
+    "timeLeft": "1h 05m",
+    "bidsCount": 31,
+    "image": "https://img.icons8.com/?size=100&id=86721&format=png&color=000000"
+  },
+  {
+    "id": 4,
+    "title": "Rolex Submariner 16610",
+    "description": "RGB backlit mechanical keyboard with blue switches.",
+    "currentBidPrice": 2800,
+    "timeLeft": "3h 40m",
+    "bidsCount": 19,
+    "image": "https://img.icons8.com/?size=100&id=86721&format=png&color=000000"
+  },
+  {
+    "id": 5,
+    "title": "First Edition 'The Great Gatsby' by F. Scott Fitzgerald",
+    "description": "Prime 50mm lens suitable for portrait and low-light photography.",
+    "currentBidPrice": 8200,
+    "timeLeft": "6h 10m",
+    "bidsCount": 26,
+    "image": "https://img.icons8.com/?size=100&id=86721&format=png&color=000000"
+  },
+  {
+    "id": 6,
+    "title": "Mid-Century Modern Eames Lounge Chair",
+    "description": "Warm LED lamp with minimal wooden design.",
+    "currentBidPrice": 950,
+    "timeLeft": "45m",
+    "bidsCount": 9,
+    "image": "https://img.icons8.com/?size=100&id=86721&format=png&color=000000"
+  },
+  {
+    "id": 7,         
+    "title": "Banksy Original Screen Print",
+    "description": "Stainless steel fast-boiling electric kettle with auto shut-off.",
+    "currentBidPrice": 1300,
+    "timeLeft": "4h 20m",
+    "bidsCount": 17,
+    "image": "https://img.icons8.com/?size=100&id=86721&format=png&color=000000"
+  }
+]
