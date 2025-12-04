@@ -9,7 +9,7 @@ const Mains = () => {
     .then(res=>res.json())
     .then(data=>setMains(data))},
     [])
-// console.log(mains)
+
 
     return (
         <div>
@@ -19,7 +19,7 @@ const Mains = () => {
        
        <div className="flex justify-between px-16 py-6">
         <h4>Itmes</h4>
-        <div className="flex justify-around gap-32 px-28">
+        <div className="flex justify-around gap-28 px-18">
           <h4>Current Bid</h4>
            <h4>Time Left</h4>
            <h4>Bid Now</h4>

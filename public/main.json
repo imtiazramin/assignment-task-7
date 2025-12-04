@@ -2,11 +2,13 @@
   {
     "id": 1,
     "title": "Vintage Leica M3 Camera",
+
     "description": "Hand-crafted premium leather wallet with classic stitching.",
     "currentBidPrice": 1200,
     "timeLeft": "2h 15m",
     "bidsCount": 14,
-    "image": "https://img.icons8.com/?size=100&id=86721&format=png&color=000000"
+    "image": "https://i.ibb.co.com/m5cgHh8Q/Bid1-min.png",
+     "iove" : "https://img.icons8.com/?size=100&id=86721&format=png&color=000000"
   },
   {
     "id": 2,
@@ -15,7 +17,8 @@
     "currentBidPrice": 3500,
     "timeLeft": "5h 48m",
     "bidsCount": 22,
-    "image": "https://img.icons8.com/?size=100&id=86721&format=png&color=000000"
+    "image": "https://i.ibb.co.com/0pzBCN9k/Bid2-min.png",
+     "iove" : "https://img.icons8.com/?size=100&id=86721&format=png&color=000000"
   },
   {
     "id": 3,
@@ -24,7 +27,8 @@
     "currentBidPrice": 5200,
     "timeLeft": "1h 05m",
     "bidsCount": 31,
-    "image": "https://img.icons8.com/?size=100&id=86721&format=png&color=000000"
+    "image": "https://i.ibb.co.com/nshdS4MM/Bid3-min.png",
+     "iove" : "https://img.icons8.com/?size=100&id=86721&format=png&color=000000"
   },
   {
     "id": 4,
@@ -33,7 +37,8 @@
     "currentBidPrice": 2800,
     "timeLeft": "3h 40m",
     "bidsCount": 19,
-    "image": "https://img.icons8.com/?size=100&id=86721&format=png&color=000000"
+    "image": "https://i.ibb.co.com/5WTFShLY/Bid5-min.png",
+     "iove" : "https://img.icons8.com/?size=100&id=86721&format=png&color=000000"
   },
   {
     "id": 5,
@@ -42,7 +47,8 @@
     "currentBidPrice": 8200,
     "timeLeft": "6h 10m",
     "bidsCount": 26,
-    "image": "https://img.icons8.com/?size=100&id=86721&format=png&color=000000"
+    "image": "https://i.ibb.co.com/bjC9127D/Bid4-min.png",
+     "iove" : "https://img.icons8.com/?size=100&id=86721&format=png&color=000000"
   },
   {
     "id": 6,
@@ -51,7 +57,8 @@
     "currentBidPrice": 950,
     "timeLeft": "45m",
     "bidsCount": 9,
-    "image": "https://img.icons8.com/?size=100&id=86721&format=png&color=000000"
+    "image": "https://i.ibb.co.com/8DTcHzLD/Bid6-min.png",
+     "iove" : "https://img.icons8.com/?size=100&id=86721&format=png&color=000000"
   },
   {
     "id": 7,         
@@ -60,6 +67,7 @@
     "currentBidPrice": 1300,
     "timeLeft": "4h 20m",
     "bidsCount": 17,
-    "image": "https://img.icons8.com/?size=100&id=86721&format=png&color=000000"
+    "image": "https://i.ibb.co.com/F4jDZKDZ/Bid7-min.png",
+     "iove" : "https://img.icons8.com/?size=100&id=86721&format=png&color=000000"
   }
 ]
